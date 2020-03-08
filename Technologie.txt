@@ -1,0 +1,48 @@
+﻿------ FRONTEND -----
+Knihovny:
+-Bootstrap	4.4.1
+-Chart.js	2.9.3
+-jquery		3.4.1
+
+Jazyky:
+-HTML
+-CSS
+-JavaScript
+
+Principy:
+-AJAX http requesty
+-JSON = JavaScript Object Notation
+
+-----  BACKEND  -----
+REST API Backend server běžící na Node.js frameworku.
+
+Postaven na: 	Node.js
+
+Knihovny:
+-body-parser	1.19.0
+-mysql		2.8.1
+-express	4.17.1
+
+Jazyky:
+-JavaScript
+
+Principy:
+-JSON objekty
+-REST API
+-Kontrola dat (asi 12x)
+
+-----  DATABASE -----
+Postaven na: 	MySQL
+
+Jazyky:
+-SQL
+
+Keywords:
+-dotaz (query)
+
+-----  Další utilitky -----
+nodemon.js		automaticky restartuje backend při změně kódu
+MySQL WorkBench		správa databáze
+PostMan			testování http requestů
+CORS changer (Chrome)	odstranění CORS chyby (backend a frontend jsou na "různých" serverech == jiný port)
+-------------------------------------
